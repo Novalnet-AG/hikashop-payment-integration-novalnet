@@ -18,6 +18,11 @@ Novalnet’s <a href="https://www.novalnet.com/modul/HikaShop-payment-module">Hi
    
   ## Key features
  - Seamless and fast integration of the payment module
+ - Easy confirmation & cancellation of on-hold transactions
+ - Refund options for various payment types
+ - Transaction amount update option for Direct Debit SEPA, Invoice, Prepayment & Barzahlen.
+ - Due date change option for Prepayment & Invoice payment.
+ - Payment slip expiry date update option for Barzahlen payment.
  - Secure SSL - encoded gateways
  - Credit Card iframe integration
  - Credit Card with 3D Secure
