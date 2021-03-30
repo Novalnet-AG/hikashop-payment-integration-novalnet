@@ -18,18 +18,17 @@ Novalnet’s <a href="https://www.novalnet.com/modul/HikaShop-payment-module">Hi
    
   ## Key features
  - Seamless and fast integration of the payment module
- - Easy confirmation & cancellation of on-hold transactions
- - Refund options for various payment types
- - Transaction amount update option for Direct Debit SEPA, Invoice, Prepayment & Barzahlen.
- - Due date change option for Prepayment & Invoice payment.
- - Payment slip expiry date update option for Barzahlen payment.
  - Secure SSL - encoded gateways
  - Credit Card iframe integration
  - Credit Card with 3D Secure
  - One click shopping supported
  - On-hold transaction configuration in the shop admin panel
+ - Easy confirmation & cancellation of on-hold transactions
+ - Refund options for various payment types
+ - Transaction amount update option for Direct Debit SEPA, Invoice, Prepayment & Barzahlen.
+ - Due date change option for Prepayment & Invoice payment
+ - Payment slip expiry date update option for Barzahlen payment
  - Responsive templates
-
 
 ## Integrated Payment Methods
 -	Direct Debit SEPA
@@ -64,4 +63,3 @@ sales@novalnet.de<br>
 
 ## Who is Novalnet?
 <a href="https://www.novalnet.de/">Novalnet</a> is a German payment provider offering payment gateway for online merchants and marketplaces worldwide. Our PCI DSS certified SaaS engine is designed to automate the entire payment process from checkout to debt collection – with a single payment integration. We cover real-time risk management; secure payments (local + international) through escrow accounts, integrate receivables management, dynamic member and subscription management as well as other customized payment solutions for your shop systems.
-
