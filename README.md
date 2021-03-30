@@ -46,7 +46,7 @@ Novalnet’s <a href="https://www.novalnet.com/modul/HikaShop-payment-module">Hi
 -	Invoice with payment guarantee
 
 ## More information
-Find more about HikaShop payment module on: https://www.novalnet.de/site_pdf/IG-joomla_3.9.14-3.9.19_hikashop_4.2.2-4.3.0_novalnet_11.2.1.pdf
+Find more about HikaShop payment module on: https://www.novalnet.de/site_pdf/IG-joomla_3.9.14-3.9.19_hikashop_4.2.2-4.3.0_novalnet_11.2.1.pdf<br>
 To test our demo shop, please visit: https://hikashop.novalnet.de/
 
 ## License
