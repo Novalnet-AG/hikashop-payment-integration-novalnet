@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="4.2" method="upgrade">
+    <name>Novalnet payment package</name>
+    <creationDate>July 2020</creationDate>
+    <version>11.2.1</version>
+    <packagename>hikashop-payment_plugin</packagename>
+    <packager>Novalnet AG</packager>
+    <author>Novalnet AG</author>
+    <authorEmail>technic@novalnet.de</authorEmail>
+    <authorUrl>https://www.novalnet.de</authorUrl>
+    <copyright>Copyright (c) Novalnet</copyright>
+    <license>https://www.novalnet.de/payment-plugins/kostenlos/lizenz</license>
+    <description> Novalnet Payment Package</description>
+    <files folder="packages">
+		<file type="plugin" id="novalnet_banktransfer" group="hikashoppayment">novalnet_banktransfer.zip</file>
+		<file type="plugin" id="novalnet_cc" group="hikashoppayment">novalnet_cc.zip</file>
+		<file type="plugin" id="novalnet_eps" group="hikashoppayment">novalnet_eps.zip</file>
+		<file type="plugin" id="novalnet_giropay" group="hikashoppayment">novalnet_giropay.zip</file>
+		<file type="plugin" id="novalnet_invoice" group="hikashoppayment">novalnet_invoice.zip</file>
+		<file type="plugin" id="novalnet_ideal" group="hikashoppayment">novalnet_ideal.zip</file>
+		<file type="plugin" id="novalnet_payments" group="hikashoppayment">novalnet_payments.zip</file>
+		<file type="plugin" id="novalnet_prepayment" group="hikashoppayment">novalnet_prepayment.zip</file>
+        <file type="plugin" id="novalnet_paypal" group="hikashoppayment">novalnet_paypal.zip</file>
+        <file type="plugin" id="novalnet_przelewy24" group="hikashoppayment">novalnet_przelewy24.zip</file>
+        <file type="plugin" id="novalnet_sepa" group="hikashoppayment">novalnet_sepa.zip</file>
+        <file type="plugin" id="novalnet_cashpayment" group="hikashoppayment">novalnet_cashpayment.zip</file>
+    </files>
+</extension>
